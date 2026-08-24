@@ -1,6 +1,6 @@
 # Awesome-Supply-Chain-Planning
 
-## Top Supply Chain Planning Platforms Ecosystem
+### Top Supply Chain Planning Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
