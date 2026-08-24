@@ -67,7 +67,7 @@ Whether you are implementing enterprise **Sales & Operations Planning (S&OP)**, 
 
 *Leading open-source software, optimization engines, constraint solvers, and forecasting toolkits for supply chain engineering, sorted by GitHub star count (descending).*
 
-| 📦 Repository | 🌟 Stars Badge | 🏷️ Domain / Category | 📝 Description |
+| 📦 Repository | 🌟 Stars_Badge | 🏷️ Domain / Category | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ERP, MRP & Production | Full-suite open-source business management and MRP system with production scheduling, multi-warehouse inventory tracking, procurement automation, and BOM management. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ERP, MRP & Supply Planning | Modern 100% open-source ERP system featuring MRP, production scheduling, multi-level BOMs, capacity planning, and automated inventory replenishment. |
